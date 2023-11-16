@@ -1,4 +1,4 @@
-# Hola, Soy [Miguel Angel Martinez Castro]
+# Hola, Soy Miguel Angel Martinez Castro
 
 ## Desarrollador de Software | Ingeniería en Software
 
