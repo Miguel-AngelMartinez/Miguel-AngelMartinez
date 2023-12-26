@@ -2,7 +2,7 @@
 
 ## Desarrollador de Software | Ingeniería en Software
 
-¡Bienvenido a mi espacio de desarrollo! Soy un apasionado desarrollador de software con experiencia en diversas tecnologías y plataformas. Actualmente, estoy estudiando Ingeniería en Software para fortalecer mis habilidades y conocimientos.
+¡Bienvenido a mi espacio de desarrollo! Soy un apasionado desarrollador de software con experiencia en diversas tecnologías y plataformas. Actualmente, termine una Ingeniería en Software, fortaleciendo mis habilidades y conocimientos.
 
 ## Tecnologías que Domino
 
