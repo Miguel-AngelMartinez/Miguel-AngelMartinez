@@ -130,9 +130,9 @@ PHP • Python • WhatsApp API
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Miguel-AngelMartinez&show_icons=true" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Miguel-AngelMartinez)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-AngelMartinez&layout=compact" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-AngelMartinez)
 
 </div>
 
