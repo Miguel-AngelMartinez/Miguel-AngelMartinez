@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Miguel Ángel Martínez Castro
+# 🚀 Miguel Angel Martinez Castro
 
 ### Software Engineer • Backend Developer • Full Stack Developer
 
